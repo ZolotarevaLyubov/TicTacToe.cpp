@@ -412,7 +412,7 @@ int main()
  //int num = count_moves(field, 'x', 1);
  //cout<<num<<endl;
  
- //evaluation(field, 'x', 1);
+ 
 
  
 

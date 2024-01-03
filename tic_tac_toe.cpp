@@ -410,12 +410,6 @@ int main()
  
  //motion(field, 'x', 1);
  //int num = count_moves(field, 'x', 1);
- //cout<<num<<endl;
- 
- 
-
- 
-
  
  return 0;
 }

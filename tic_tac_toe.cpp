@@ -409,7 +409,6 @@ int main()
  //print(moves(field, 'x'));
  
  //motion(field, 'x', 1);
- //int num = count_moves(field, 'x', 1);
  
  return 0;
 }

@@ -408,8 +408,6 @@ int main()
  //print_vector(moves(field, 'x'));
  //print(moves(field, 'x'));
  
- //motion(field, 'x', 1);
- 
  return 0;
 }
 

@@ -407,6 +407,7 @@ int main()
  cout<<endl;
  //print_vector(moves(field, 'x'));
  
+
  return 0;
 }
 

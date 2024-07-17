@@ -80,7 +80,6 @@ bool space(array<char, 9> field)
  return 0;
 }
 
-
 vector<array<char,9>> moves(array<char, 9>field, char user)
 {
  vector<array<char,9>>new_map;

@@ -1,6 +1,7 @@
 #include<iostream>
 #include<array>
 #include<vector>
+
 using namespace std;
 
 enum class game_values
